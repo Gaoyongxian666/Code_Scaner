@@ -1,5 +1,6 @@
 # Code_Scaner
-使用 Tensorflow 识别教务管理系统验证码，Python 语言。
+使用 Tensorflow 识别教务管理系统验证码
+Python、CNN
 
 使用方法：
 
